@@ -2,7 +2,7 @@
 
 This project performs customer segmentation on the Olist e-commerce dataset using SQL and the RFM (Recency, Frequency, Monetary) framework. The analysis is conducted entirely in PostgreSQL, with Python used for data ingestion and preprocessing.
 
-The data used in this project comes from the **silver layer** of my [Olist Data Engineering Pipeline](https://github.com/Beatrice-127/my-projects/tree/main/ecommerce_data_engineering), where I built an end-to-end ETL process using Azure and transformed raw data into analysis-ready tables.
+The data used in this project comes from the **silver layer** of my [Olist Data Engineering Pipeline](https://github.com/Beatrice-127/ecommerce-data-ETL), where I built an end-to-end ETL process using Azure and transformed raw data into analysis-ready tables.
 
 ## Dataset
 
